@@ -67,15 +67,25 @@
 }
 
 button.navbar-toggler:hover {
-  background-color: #6C5B7B !important;
+  color: #C06C84 !important;
+  background-color: #FFFFFF !important;
 }
 
 button.navbar-toggler:focus {
-  background-color: #6C5B7B !important;
+  color: #C06C84 !important;
+  background-color: #FFFFFF !important;
+}
+
+button.navbar-toggler {
+  outline-color: #FFFFFF !important;
 }
 
 .btn-outline-light {
   color: #FFFFFF !important;
+}
+
+.btn-outline-light:hover {
+  color: #C06C84 !important;
 }
 
 .text-secondary {
