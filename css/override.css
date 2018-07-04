@@ -1,0 +1,104 @@
+.navbar {
+	background-color: #355C7D !important;
+}
+
+.masthead {
+	background-color: #C06C84 !important;
+}
+
+.bg-primary {
+	background-color: #C06C84 !important;
+}
+
+.copyright {
+	background-color: #355C7D !important;	
+}
+
+#mainNav .navbar-nav li.nav-item a.nav-link:hover {
+  color: #C06C84 !important;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active {
+    color: #fff !important;
+    background: #C06C84 !important;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+    color: #fff !important;
+    background: #C06C84 !important;
+}
+
+#sendMessageButton {
+	background-color: #C06C84 !important;
+}
+
+.btn-primary {
+  background-color: #C06C84 !important;
+  border-color: #C06C84 !important;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  background-color: #C06C84 !important;
+  border-color: #C06C84 !important;
+}
+
+.portfolio-modal mfp-hide {
+	color: #C06C84;
+}
+
+.close-button {
+	color: #C06C84 !important;
+}
+
+.portfolio-modal .portfolio-modal-dialog .close-button {
+	color: #C06C84 !important;
+}
+
+.img-fluid {
+	color: #C06C84 !important;	
+}
+
+.img-fluid {
+	color: #C06C84 !important;	
+}
+
+.portfolio-item-caption:hover {
+  background-color: #C06C84 !important;
+}
+
+button.navbar-toggler:hover {
+  background-color: #6C5B7B !important;
+}
+
+button.navbar-toggler:focus {
+  background-color: #6C5B7B !important;
+}
+
+.btn-outline-light {
+  color: #FFFFFF !important;
+}
+
+.text-secondary {
+  color: #355C7D !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
